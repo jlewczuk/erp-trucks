@@ -1,0 +1,1 @@
+export { useHandleDeleteTrucks } from "./useHandleDeleteTrucks";
